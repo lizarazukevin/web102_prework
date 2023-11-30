@@ -25,7 +25,7 @@ Created a link on the header that directs the user to the 'Our Games' section as
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/x1HbwW1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Imgur](https://i.imgur.com/x1HbwW1.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap  
